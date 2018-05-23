@@ -1,0 +1,23 @@
+BODY {
+    background-color: beige
+}
+
+.control { 
+    margin: 4px;
+}
+
+#position { 
+    width: 480px;
+    float: left;
+    margin-left: 18px;
+    margin-top: 14px;
+}
+
+#custom-handle {
+    width: 3em;
+    height: 1.6em;
+    top: 50%;
+    margin-top: -.8em;
+    text-align: center;
+    line-height: 1.6em;
+  }
